@@ -24,13 +24,13 @@ If it is necessary to transfer data from the <i>facility drive</i>  to any other
 
 An email will be send to the data owner (in this case, the both project contact person and their group leader) specifying:
 
-    - A list of all files that will be transferred (in the case of large numbers of files, this may be specific in a csv attached to the email)
+* A list of all files that will be transferred (in the case of large numbers of files, this may be specific in a csv attached to the email)
 
-    - Where and to whom the files will be transferred
+* Where and to whom the files will be transferred
 
-    - The purpose of the transfer
+* The purpose of the transfer
 
-    - A request for written confirmation from the project contact person and the group leader
+* A request for written confirmation from the project contact person and the group leader
 
 No files will be transferred until both written confirmations are received (in the case where the group leader is also the contact person, only one confirmation is required)
     
